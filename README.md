@@ -2,5 +2,5 @@
 
 ## 📊 leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nikhil-Mhatre?ext=heatmap&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/CeeJayMoss?ext=heatmap&theme=unicorn)
 
