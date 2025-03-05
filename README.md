@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 ## Hi there 👋
 
 I am an Engineer specialising in Data, Machine Learning and Artificial Intelligence,
@@ -15,6 +19,10 @@ Royal Melbourne Institute of Technology University
 Microsoft Certified: Azure Fundamentals - AZ900
 Microsoft Certified: Azure AI Engineer Associate - AI102
 Microsoft Certified: Azure Data Scientist Associate - DP100
+
+## 👨‍💻 Professional Experience
+
+## 🚀 Projects
 
 
 ## 📊 leetcode Stats
