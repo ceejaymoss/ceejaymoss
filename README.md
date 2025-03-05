@@ -9,18 +9,18 @@ Welcome to my GitHub profile! I'm constantly updating my skills and expertise sp
 ## 📚 Education
 
 2014 - 2016
-Associate Degree in Engineering Technology
-Royal Melbourne Institute of Technology University
+  Associate Degree in Engineering Technology
+  Royal Melbourne Institute of Technology University
 
 2016 - 2019
-Bachelors of Engineering (Honours)
-Royal Melbourne Institute of Technology University
+  Bachelors of Engineering (Honours)
+  Royal Melbourne Institute of Technology University
 
 ## 📜 Certifications
 
-Microsoft Certified: Azure Fundamentals - AZ900
-Microsoft Certified: Azure AI Engineer Associate - AI102
-Microsoft Certified: Azure Data Scientist Associate - DP100
+  Microsoft Certified: Azure Fundamentals - AZ900
+  Microsoft Certified: Azure AI Engineer Associate - AI102
+  Microsoft Certified: Azure Data Scientist Associate - DP100
 
 ## 👨‍💻 Professional Experience
 
