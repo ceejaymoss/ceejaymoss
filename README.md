@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm constantly updating my skills and expertise sp
   Microsoft Certified: Azure Fundamentals - AZ900 <br>
   Microsoft Certified: Azure AI Engineer Associate - AI102 <br>
   Microsoft Certified: Azure Data Scientist Associate - DP100 <br>
+  AWS Certified: Cloud Practitioner - CLF-C02 <br>
 
 ## 👨‍💻 Professional Experience
 
