@@ -25,7 +25,13 @@ Welcome to my GitHub profile! I'm constantly updating my skills and expertise sp
 
 ## 👨‍💻 Professional Experience
 
+Govournment funded Business Development - Ai Engineering Project
+
 ## 🚀 Projects
+
+Match Me - Dating App looking at improving connectivity in a lonelier world
+
+Get Fiscal - Finnancial analysis and consolidation application
 
 
 ## 📊 leetcode Stats
