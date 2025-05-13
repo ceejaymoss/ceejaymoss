@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm constantly updating my skills and expertise sp
 
 ## 👨‍💻 Professional Experience
 
-Govournment funded Business Development - Ai Engineering Project
+Govournment funded business development - Ai Engineering Project
 
 ## 🚀 Projects
 
