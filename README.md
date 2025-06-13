@@ -25,14 +25,13 @@ Welcome to my GitHub profile! I'm constantly updating my skills and expertise sp
 
 ## 👨‍💻 Professional Experience
 
-Govournment funded business development - Ai Engineering Project
+Your Shot! - Ai Engineering Project
+Commercial Real Estate application being utilised by Real Estate brokers and lenders, including banks and business owners alike!
 
 ## 🚀 Projects
 
-Match Me - Dating App looking at improving connectivity in a lonelier world
-
 Get Fiscal - Finnancial analysis and consolidation application
-
+Super Annuation application utilising LLMs to improve returns and understanding for seniors after they retire or towards the end of their career!
 
 ## 📊 leetcode Stats
 
