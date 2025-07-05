@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm constantly updating my skills and expertise sp
 ## 👨‍💻 Professional Experience
 
 Your Shot! - Ai Engineering Project
-Commercial Real Estate application being utilised by Real Estate brokers and lenders, including banks and business owners alike!
+Commercial Real Estate application being utilised by Real Estate brokers, lenders, including banks and business owners alike!
 
 ## 🚀 Projects
 
