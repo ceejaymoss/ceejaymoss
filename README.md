@@ -35,7 +35,8 @@ A cyber security company solving complex on premises solutions for C Suite Execu
 
 ## 🚀 Projects
 
-Get Fiscal - Finnancial analysis and consolidation application
+Get Fiscal <br> 
+Finnancial analysis and consolidation application <br>
 Super Annuation application utilising LLMs to improve returns and understanding for seniors after they retire or towards the end of their career!
 
 ## 📊 leetcode Stats
