@@ -24,12 +24,13 @@ Welcome to my GitHub profile! I'm constantly updating my skills and expertise sp
 
 ## 👨‍💻 Professional Experience
 
-May 2025 - Present
-Your Shot! - Technical Founder - Artificial Intelligent B2B System
-Commercial Real Estate application being utilised by Real Estate brokers, lenders, banks and business owners alike!
+May 2025 - Present <br>
+Your Shot! - Technical Founder <br>
+Artificial Intelligent B2B System <br>
+Commercial Real Estate application being utilised by Real Estate, financial lenders, Councils and Business Owners alike!
 
-Oct 2022 - Aug 2024
-Viridian Lock - Ai Marketing & Communications
+Oct 2022 - Aug 2024 <br>
+Viridian Lock - Ai Engineer & Communications <br>
 A cyber security company solving complex on premises solutions for C Suite Executives handling critical data. Using a combination of Hardware and Software solutions to secure our clients against the latest threats.
 
 ## 🚀 Projects
