@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I'm constantly updating my skills and expertise sp
 
 ## 📚 Education
 
+- **Bachelors of Engineering (Mechanical)(Honours)**
+  Royal Melbourne Institute of Technology University
+  
 - **Associate Degree in Engineering Technology**
   Royal Melbourne Institute of Technology University
-
-- **Bachelors of Engineering (Honours)**
-  Royal Melbourne Institute of Technology University
-
+  
 ## 📜 Certifications
 
   Microsoft Certified: Azure Fundamentals - AZ900 <br>
@@ -27,13 +27,18 @@ Welcome to my GitHub profile! I'm constantly updating my skills and expertise sp
 May 2025 - Present <br>
 Your Shot! - Technical Founder <br>
 Artificial Intelligent B2B System <br>
-Commercial Real Estate application being utilised by Real Estate, financial lenders, Councils and Business Owners alike!
+Democratising the access to data for retail business. Giving anybody access to complex data structures. Simplified and actionable. This AI agentic suite parses 30 million data points. Fine tuning 700 Billion parameters. Available to anybofy with an internet connection.
 
 Oct 2022 - Aug 2024 <br>
 Viridian Lock - Ai Engineer & Regional Manager <br>
 A cyber security company solving complex on premises solutions for C Suite Executives handling critical data. Using a combination of Hardware and Software solutions to secure our clients against the latest threats.
 
 ## 🚀 Projects
+
+Index Mog-oner <br>
+Financial Analysis and Trading AI suite
+The index is a safe basket of goods to take, however it overconstrains the free market and creates unintended dependencies on companies. Is the market therefore truly free?
+Index Mog-oner is an Agnetic AI suite that has outperformed the Index by 30% YOY since inception. Combining Qualitative and Quantitative theory, Artificial Intelligence, Data Science and Computer Science. Index Mog-oner is the magnum opus of 10 years of study.
 
 Get Fiscal <br> 
 Finnancial analysis and consolidation application <br>
