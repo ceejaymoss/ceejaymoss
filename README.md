@@ -30,7 +30,7 @@ Artificial Intelligent B2B System <br>
 Commercial Real Estate application being utilised by Real Estate, financial lenders, Councils and Business Owners alike!
 
 Oct 2022 - Aug 2024 <br>
-Viridian Lock - Ai Engineer & Communications <br>
+Viridian Lock - Ai Engineer & Regional Manager <br>
 A cyber security company solving complex on premises solutions for C Suite Executives handling critical data. Using a combination of Hardware and Software solutions to secure our clients against the latest threats.
 
 ## 🚀 Projects
