@@ -4,14 +4,19 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm constantly updating my skills and expertise specialising in Artificial Intelligence, Machine Learning and Data Science. Feel free to explore my repositories and connect with me!
+Welcome to my GitHub profile! 
+I'm constantly updating my skills and expertise specialising in Artificial Intelligence, Machine Learning and Data Science. 
+Feel free to explore my repositories and connect with me!
+
+A bit about me: I am an avid builder and engineer with over 10 years experience. My passion is in making the impossible possible!
+Currently working on AI agentic solutions, fine tuning billions of parameters into constructive powerhouses for the betterment of society at large.
 
 ## 👨‍💻 Professional Experience
 
 May 2025 - Present <br>
 Your Shot! - Technical Founder <br>
 Artificial Intelligent B2B System <br>
-Democratising the access to data for retail business. Giving anybody access to complex data structures. Simplified and actionable. This AI agentic suite parses 30 million data points. Fine tuning 700 Billion parameters. Available to anybofy with an internet connection.
+Democratising the access to data for retail business. Giving anybody access to complex data structures. Simplified and actionable. This AI agentic suite parses 30 million data points. Fine tuning 700 Billion parameters. Available to anybody with an internet connection.
 
 Oct 2022 - Aug 2024 <br>
 Viridian Lock - Ai Engineer & Regional Manager <br>
@@ -43,6 +48,17 @@ Super Annuation application utilising LLMs to improve returns and understanding 
   Microsoft Certified: Azure Data Scientist Associate - DP100 <br>
   AWS Certified: Cloud Practitioner - CLF-C02 <br>
   AWS Certified: Ai Practioner - AIF-C01 - Currently Underway <br>
+
+## 🏆 Achievements
+
+  Constructed horse racing gambling formulae based on data science, statistics and probability over 2 years, 
+  achieving top 10 on weekly punting leaderboards numerous times and posting gains of 1660% over a 6 month period.
+  
+  Honours project showcased at the Avalon Airshow 2019 - STEM Drones, utilising drone technology to improve educational 
+  outcomes in STEM specifically programming and engineering. 
+  
+  University Hydro-electric RC car project build finished 3rd out of 23 teams completing 60 laps of the track before breaking down. 
+
 
 ## 📊 leetcode Stats
 
