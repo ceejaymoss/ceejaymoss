@@ -6,22 +6,6 @@
 
 Welcome to my GitHub profile! I'm constantly updating my skills and expertise specialising in Artificial Intelligence, Machine Learning and Data Science. Feel free to explore my repositories and connect with me!
 
-## 📚 Education
-
-- **Bachelors of Engineering (Mechanical)(Honours)**
-  Royal Melbourne Institute of Technology University
-  
-- **Associate Degree in Engineering Technology**
-  Royal Melbourne Institute of Technology University
-  
-## 📜 Certifications
-
-  Microsoft Certified: Azure Fundamentals - AZ900 <br>
-  Microsoft Certified: Azure AI Engineer Associate - AI102 <br>
-  Microsoft Certified: Azure Data Scientist Associate - DP100 <br>
-  AWS Certified: Cloud Practitioner - CLF-C02 <br>
-  AWS Certified: Ai Practioner - AIF-C01 - Currently Underway <br>
-
 ## 👨‍💻 Professional Experience
 
 May 2025 - Present <br>
@@ -43,6 +27,22 @@ Index Mog-oner is an Agnetic AI suite that has outperformed the S&P-500 Index by
 Get Fiscal <br> 
 Finnancial analysis and consolidation application <br>
 Super Annuation application utilising LLMs to improve returns and understanding for seniors after they retire or towards the end of their career!
+
+## 📚 Education
+
+- **Bachelors of Engineering (Mechanical)(Honours)**
+  Royal Melbourne Institute of Technology University
+  
+- **Associate Degree in Engineering Technology**
+  Royal Melbourne Institute of Technology University
+  
+## 📜 Certifications
+
+  Microsoft Certified: Azure Fundamentals - AZ900 <br>
+  Microsoft Certified: Azure AI Engineer Associate - AI102 <br>
+  Microsoft Certified: Azure Data Scientist Associate - DP100 <br>
+  AWS Certified: Cloud Practitioner - CLF-C02 <br>
+  AWS Certified: Ai Practioner - AIF-C01 - Currently Underway <br>
 
 ## 📊 leetcode Stats
 
