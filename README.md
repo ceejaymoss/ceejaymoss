@@ -4,12 +4,12 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub profile! 
-I'm constantly updating my skills and expertise specialising in Artificial Intelligence, Machine Learning and Data Science. 
-Feel free to explore my repositories and connect with me!
+Welcome to my GitHub profile! <br>
+I'm constantly updating my skills and expertise specialising in Artificial Intelligence, Machine Learning and Data Science. <br>
+Feel free to explore my repositories and connect with me! <br>
 
-A bit about me: I am an avid builder and engineer with over 10 years experience. My passion is in making the impossible possible!
-Currently working on AI agentic solutions, fine tuning billions of parameters into constructive powerhouses for the betterment of society at large.
+A bit about me: I am an avid builder and engineer with over 10 years experience. My passion is in making the impossible possible! <br>
+Currently working on AI agentic solutions, fine tuning billions of parameters into constructive powerhouses for the betterment of society at large. <br>
 
 ## 👨‍💻 Professional Experience
 
