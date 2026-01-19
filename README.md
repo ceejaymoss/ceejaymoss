@@ -24,13 +24,13 @@ A cyber security company solving complex on premises solutions for C Suite Execu
 
 ## 🚀 Projects
 
-Index Mog-oner - Alpha Completed <br> 
+Index Crusher - Alpha Completed <br> 
 Financial Analysis and Trading AI suite <br>
 The index is a safe basket of goods to take, however it overconstrains the free market and creates unintended dependencies on companies. Is the market therefore truly free?
 Index Mog-oner is an Agnetic AI suite that has outperformed the S&P-500 Index since inception. Combining Qualitative and Quantitative theory, Artificial Intelligence, Data Science and Computer Science. Index Mog-oner is the magnum opus of 10 years of study. <br>
-Tech stack: LangGraph, Python, 
+Tech stack: LangGraph, Python
 
-Project Labrynth <br> 
+Project Labyrinth <br> 
 Aviation and Aerofuels <br>
 This project is under NDA, however its goals are to revolutionise safety on airports. Working alongside industry experts with over 30 years experience and World Fuel Services Australia.
 
