@@ -39,9 +39,6 @@ This project is under NDA, however its goals are to revolutionise safety on airp
 - **Bachelors of Engineering (Mechanical)(Honours)**
   Royal Melbourne Institute of Technology University
   
-- **Associate Degree in Engineering Technology**
-  Royal Melbourne Institute of Technology University
-  
 ## 📜 Certifications
 
   Microsoft Certified: Azure Fundamentals - AZ900 <br>
