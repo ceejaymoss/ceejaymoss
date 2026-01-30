@@ -14,20 +14,34 @@ Currently working on AI agentic solutions, fine tuning billions of parameters in
 ## 👨‍💻 Professional Experience
 
 May 2025 - Present <br>
-Your Shot! - Technical Founder <br>
-Artificial Intelligent B2B System <br>
-Democratising the access to data for retail business. Giving anybody access to complex data structures. Simplified and actionable. This AI agentic suite parses 30 million data points. Fine tuning 700 Billion parameters. Available to anybody with an internet connection.
+Your Shot! – AI-Powered Location Intelligence for Business Opportunities <br>                                                                                                                                                                        
+Your Shot! is an AI-driven platform that analyzes retail locations to identify business opportunities. Enter any       
+address and our AI agents instantly provide: <br>
+
+- Location Demographics – Population density, age distribution, income levels, and cultural insights <br>
+- Competitive Intelligence – Analyze nearby competition and identify market gaps <br>
+- Business Recommendations – Get AI-generated business ideas tailored to that specific location <br>
+
+Built with CrewAI agents, Supabase and AWS, Your Shot! makes location-based business analysis accessible to entrepreneurs,  
+investors, and business owners worldwide. <br>
+
+Quick Start <br>
+
+1. Enter a retail address or scan a YourShot! QR code <br>
+2. Our AI agents process geolocation, demographics, and competitive data in real-time <br>
+3. Receive actionable insights and business recommendations within minutes <br>
+
 
 Oct 2022 - Aug 2024 <br>
 Viridian Lock - Ai Engineer & Regional Manager <br>
-A cyber security company solving complex on premises solutions for C Suite Executives handling critical data. Using a combination of Hardware and Software solutions to secure our clients against the latest threats.
+A cyber security company solving complex on premises solutions for persons of interest handling critical data. Using a combination of Hardware and Software solutions to secure our clients against the latest threats. <br>
 
 ## 🚀 Projects
 
 Index Crusher - Alpha Completed <br> 
 Financial Analysis and Trading AI suite <br>
 The index is a safe basket of goods to take, however it overconstrains the free market and creates unintended dependencies on companies. Is the market therefore truly free?
-Index Mog-oner is an Agnetic AI suite that has outperformed the S&P-500 Index since inception. Combining Qualitative and Quantitative theory, Artificial Intelligence, Data Science and Computer Science. Index Mog-oner is the magnum opus of 10 years of study. <br>
+Index Crusher is an Agnetic AI suite that has outperformed the S&P-500 Index since inception. Combining Qualitative and Quantitative theory, Artificial Intelligence, Data Science and Computer Science. Index Mog-oner is the magnum opus of 10 years of study. <br>
 Tech stack: LangGraph, Python
 
 Project Labyrinth <br> 
