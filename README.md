@@ -57,6 +57,7 @@ This project is under NDA, however its goals are to revolutionise safety on airp
 
   Microsoft Certified: Azure Fundamentals (AZ900) - Azure AI Engineer Associate (AI102) - Azure Data Scientist Associate (DP100) <br>
   AWS Certified: Cloud Practitioner (CLF-C02) - Ai Practioner (AIF-C01) - Currently Underway <br>
+  DeepLearning.AI: Multi AI Agent Systems with crewAI - Practical Multi AI Agents and Advanced Use Cases with crewAI - Long-Term Agentic Memory With LangGraph
 
 ## 🏆 Achievements
 
