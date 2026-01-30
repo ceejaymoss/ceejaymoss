@@ -55,11 +55,8 @@ This project is under NDA, however its goals are to revolutionise safety on airp
   
 ## 📜 Certifications
 
-  Microsoft Certified: Azure Fundamentals - AZ900 <br>
-  Microsoft Certified: Azure AI Engineer Associate - AI102 <br>
-  Microsoft Certified: Azure Data Scientist Associate - DP100 <br>
-  AWS Certified: Cloud Practitioner - CLF-C02 <br>
-  AWS Certified: Ai Practioner - AIF-C01 - Currently Underway <br>
+  Microsoft Certified: Azure Fundamentals (AZ900) - Azure AI Engineer Associate (AI102) - Azure Data Scientist Associate (DP100) <br>
+  AWS Certified: Cloud Practitioner (CLF-C02) - Ai Practioner (AIF-C01) - Currently Underway <br>
 
 ## 🏆 Achievements
 
