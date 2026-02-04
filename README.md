@@ -21,16 +21,10 @@ address and our AI agents instantly provide: <br>
 - Location Demographics – Population density, age distribution, income levels, and cultural insights <br>
 - Competitive Intelligence – Analyze nearby competition and identify market gaps <br>
 - Business Recommendations – Get AI-generated business ideas tailored to that specific location <br>
+- Ever evolving tools list!
 
-Built with CrewAI agents, Supabase and AWS, Your Shot! makes location-based business analysis accessible to entrepreneurs,  
+Your Shot! makes location-based business analysis accessible to entrepreneurs,  
 investors, and business owners worldwide. <br>
-
-Quick Start <br>
-
-1. Enter a retail address or scan a YourShot! QR code <br>
-2. Our AI agents process geolocation, demographics, and competitive data in real-time <br>
-3. Receive actionable insights and business recommendations within minutes <br>
-
 
 Oct 2022 - Aug 2024 <br>
 Viridian Lock - Ai Engineer & Regional Manager <br>
