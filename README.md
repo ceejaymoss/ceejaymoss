@@ -54,9 +54,6 @@ This project is under NDA, however its goals are to revolutionise safety on airp
   DeepLearning.AI: Multi AI Agent Systems with crewAI - Practical Multi AI Agents and Advanced Use Cases with crewAI - Long-Term Agentic Memory With LangGraph
 
 ## 🏆 Achievements
-
-  Constructed horse racing gambling formulae based on data science, statistics and probability over 2 years, 
-  achieving top 10 on weekly punting leaderboards numerous times and posting gains of 1660% over a 6 month period.
   
   Honours project showcased at the Avalon Airshow 2019 - STEM Drones, utilising drone technology to improve educational 
   outcomes in STEM specifically programming and engineering. 
