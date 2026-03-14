@@ -41,6 +41,7 @@ Index Crusher is an Agnetic AI suite that has outperformed the S&P-500 Index sin
 Q1 2026 Results: <br>
 S&P 500 Benchmark = -2.1% <br>
 Index Crusher = 5.16% <br>
+Outperformance = 7.26% <br>
 Tech stack: LangGraph, Python <br>
 
 Project Labyrinth <br> 
