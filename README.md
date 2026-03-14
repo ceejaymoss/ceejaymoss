@@ -15,7 +15,7 @@ Currently working on AI agentic solutions, fine tuning billions of parameters in
 
 Apr 2025 - Present <br>
 Your Shot! – Co - Founder and CTO <br>
-www.yourshot.shop
+www.yourshot.shop <br>
 AI-Powered Location Intelligence for Business Opportunities <br>                                                                                                                                                                        
 Your Shot! is an AI-driven platform that analyzes retail locations to identify business opportunities. Enter any       
 address and our AI agents instantly provide: <br>
