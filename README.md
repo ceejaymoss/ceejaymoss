@@ -14,7 +14,8 @@ Currently working on AI agentic solutions, fine tuning billions of parameters in
 ## 👨‍💻 Professional Experience
 
 Apr 2026 - Present <br>
-MLAI Aus - 
+MLAI Aus - Lead Technical Developer <br>
+Currently volunteering with an amazing not-for-profit organisation: "MLAI is a not-for-profit community empowering Australia's AI and Machine Learning ecosystem through events, articles, and networking."
 
 Apr 2025 - Mar 2026 <br>
 Your Shot! – Co - Founder and CTO <br>
