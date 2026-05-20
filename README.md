@@ -32,7 +32,7 @@ Your Shot! makes location-based business analysis accessible to entrepreneurs,
 investors, and business owners worldwide. <br>
 
 Oct 2022 - Aug 2024 <br>
-Viridian Lock - Ai Engineer & Regional Manager <br>
+Viridian Lock - Sales Manager <br>
 A cyber security company solving complex on premises solutions for persons of interest handling critical data. Using a combination of Hardware and Software solutions to secure our clients against the latest threats. <br>
 
 ## 🚀 Projects
