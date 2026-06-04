@@ -15,7 +15,8 @@ Currently working on AI agentic solutions, fine tuning billions of parameters in
 
 Apr 2026 - Present <br>
 MLAI Aus - Lead Technical Developer <br>
-Currently volunteering with an amazing not-for-profit organisation: "MLAI is a not-for-profit community empowering Australia's AI and Machine Learning ecosystem through events, articles, and networking."
+Currently volunteering with an amazing not-for-profit organisation: "MLAI is a not-for-profit community empowering Australia's AI and Machine Learning ecosystem through events, articles, and networking." <br>
+
 
 Apr 2025 - Mar 2026 <br>
 Your Shot! – Co - Founder and CTO <br>
@@ -55,16 +56,13 @@ Index Crusher = 5.16% <br>
 Outperformance = 7.26% <br>
 Tech stack: LangGraph, Python <br>
 
-Project Labyrinth <br> 
-Aviation and Aerofuels <br>
-This project is under NDA, however its goals are to revolutionise safety on airports. Working alongside industry experts with over 30 years experience and World Fuel Services Australia.
 
 ## 📚 Education
 
 - **Bachelors of Engineering (Mechanical)(Honours)**
   Royal Melbourne Institute of Technology University
   
-## 📜 Certifications
+## 📜 Courses Completed
 
   Microsoft Certified: Azure Fundamentals (AZ900) - Azure AI Engineer Associate (AI102) - Azure Data Scientist Associate (DP100) <br>
   AWS Certified: Cloud Practitioner (CLF-C02) - Ai Practioner (AIF-C01) - Currently Underway <br>
