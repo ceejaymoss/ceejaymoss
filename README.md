@@ -48,7 +48,6 @@ AI Engineer – (Oct/2022 to Aug/2024) <br>
 
 Index Crusher - Alpha Completed <br> 
 Financial Analysis and Trading AI suite <br>
-The index is a safe basket of goods to take, however it overconstrains the free market and creates unintended dependencies on companies. Is the market therefore truly free?
 Index Crusher is an Agnetic AI suite that has outperformed the S&P-500 Index since inception. Combining Qualitative and Quantitative theory, Artificial Intelligence, Data Science and Computer Science. Index Crusher is the magnum opus of 10 years of study. <br>
 Q1 2026 Results: <br>
 S&P 500 Benchmark = -2.1% <br>
