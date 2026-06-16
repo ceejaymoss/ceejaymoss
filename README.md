@@ -13,11 +13,6 @@ Currently working on AI agentic solutions, fine tuning billions of parameters in
 
 ## 👨‍💻 Professional Experience
 
-Apr 2026 - Present <br>
-MLAI Aus - Lead Technical Developer <br>
-Currently volunteering with an amazing not-for-profit organisation: "MLAI is a not-for-profit community empowering Australia's AI and Machine Learning ecosystem through events, articles, and networking." <br>
-
-
 Apr 2025 - Mar 2026 <br>
 Your Shot! – Co - Founder and CTO <br>
 AI-Powered Location Intelligence for Business Opportunities <br>                                                                                                                                                                        
@@ -40,15 +35,12 @@ AI Engineer – (Oct/2022 to Aug/2024) <br>
 -	Achieved 50% improvement in marketing campaign performance and 2x increase in click-through rates through systematic AI prompt engineering and optimization. <br>
 -	Implemented model evaluation frameworks to select optimal AI solutions for different use cases, ensuring maximum accuracy and performance. <br>
 -	Conducted comparative analysis of leading language models (Claude, GPT, Gemini and DeepSeek) to address specific computational challenges and budgeting constraints. <br>
--	Deployed hardware and software solutions on Linux (Debian, Arch Linux) and Android based platforms. <br>
-
-
 
 ## 🚀 Projects
 
-Index Crusher - Alpha Completed <br> 
-Financial Analysis and Trading AI suite <br>
-Index Crusher is an Agnetic AI suite that has outperformed the S&P-500 Index since inception. Combining Qualitative and Quantitative theory, Artificial Intelligence, Data Science and Computer Science. Index Crusher is the magnum opus of 10 years of study. <br>
+Index Crusher - (Dec 15th to Dec 29th) <br> 
+AI Agent <br>
+Index Crusher is an AI Agent built in a 2 week sprint with the goal being to beat the S&P 500. <br>
 Q1 2026 Results: <br>
 S&P 500 Benchmark = -2.1% <br>
 Index Crusher = 5.16% <br>
